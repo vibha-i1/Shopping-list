@@ -75,7 +75,7 @@ oglist.innerHTML="";
 	
 }
 
-
+newlistb.addEventListener("click", deleteallitems);
 
 
 
