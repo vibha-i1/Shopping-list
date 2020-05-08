@@ -1,6 +1,6 @@
 .coolTitle{
   color: #F7EDD2;
-  font-family: dancingscript, cursive;
+  font-family: 'Montserrat', sans-serif;;
   text-align: center;
   font-size: 50px;
 }
@@ -21,8 +21,9 @@ ul{
   list-style-type: none;
   color: #5C9396;
   text-align: center;
-font-size: 32px;
-font-family: dancingscript, cursive;
+font-size: 20px;
+font-family: 'Ubuntu', sans-serif;
+
 font-weight: bolder;
 }
 
@@ -67,6 +68,7 @@ input{
 button{
   background-color:#C7C7C7;
   margin: 20px;
+  font-size: 20px;
 }
 
 .newlist{
